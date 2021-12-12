@@ -21,4 +21,4 @@ para velocidades diferentes:
 1. Determine um polinômio interpolador para esse conjunto de dados e obtenha uma estimativa para a força
 sobre o projétil quando ele está se deslocando a uma velocidade de 228,6 m/s. Use $p(t) = a_0 + a_1t + a_2t^2 + a_3t^3 + a_4t^4 $
 
-2. O que acontece se tentarmos obter a resposta empregando um polinômio cúbico, por exemplo.
+2. O que acontece se tentarmos obter a resposta empregando um polinômio cúbico, por exemplo?
